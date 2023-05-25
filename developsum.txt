@@ -1,0 +1,5 @@
+There are two ways to write error-free programs; only the third one works. (Alan J. Perlis)
+I think there’s a world market for about 5 computers. (Thomas J. Watson, Chairman of the Board, IBM, circa 1948)
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late. (Seymour Cray) 
+Hardware: The parts of a computer system that can be kicked. (Jeff Pesis)
+They have computers, and they may have other weapons of mass destruction. (Janet Reno)
